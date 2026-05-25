@@ -1,8 +1,8 @@
 ## Hi there, I'm Albin George Kurian 👋
 
-- 🔭 I’m currently working on Healthcare Data Engineering & AI Pipelines  
+- 🔭 I’m currently working as an AI Engineer  
 - 🌱 I’m currently learning LLMOps and AI Infrastructure  
-- 💬 Ask me about AI,LLM, RAG, MCP, ETL Pipelines, SQL, Healthcare Data, and Automation  
+- 💬 Ask me about AI,LLM, RAG, MCP, ETL Pipelines, SQL, LLMops, Healthcare Data, and Automation  
 - 📫 How to reach me: www.linkedin.com/in/albin-george-kurian  
 - ⚡ Fun fact: I can spend hours building RAG, MCP, and GraphRAG systems just to make AI answer one question 2 seconds faster 🙂
 
